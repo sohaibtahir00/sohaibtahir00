@@ -1,20 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sohaib Tahir</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+# 👋 Hi, I'm Sohaib Tahir!
 
-- 🔭 I’m currently working on [WTWR](https://sohaibtahir00.github.io/se_project_react/)
+### Welcome to my GitHub profile! 🌟
 
-- 👯 I have made a [To Do list](https://sohaibtahir00.github.io/se-to-do/)
+I'm a passionate **Full Stack Developer** with experience in building modern web applications using a variety of technologies and frameworks. I love creating efficient, scalable, and user-friendly projects. Here’s a glimpse of what I’ve been working on!
 
-- 🤝 I’m looking to enhance features in [Spots](https://sohaibtahir00.github.io/se_project_spots/)
+## 🛠️ Technologies & Languages
 
-- 📫 How to reach me **sohaibtahir90@gmail.com**
+- **Frontend**: HTML, CSS, JavaScript (ES6+), React, Webpack, Babel
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Version Control**: Git, GitHub
+- **Tools & Others**: VS Code, Nginx, Jest, ESlint, Webpack Dev Server, JWT, GitHub Pages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stahir-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stahir-dev" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 📂 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaibtahir00&show_icons=true&locale=en&layout=compact" alt="sohaibtahir00" /></p>
+### 1. [📝 SE To-Do App](https://github.com/sohaibtahir00/se-to-do)
+
+A simple and functional **To-Do App** built with **HTML**, **CSS**, and **JavaScript**.
+
+- Features include task creation, deletion, and local storage for data persistence.
+- **Technologies**: HTML, CSS, JavaScript
+- [Explore the Project](https://github.com/sohaibtahir00/se-to-do)
+
+### 2. [⚛️ React Project](https://github.com/sohaibtahir00/se_project_react)
+
+A comprehensive **React application** featuring dynamic components, state management, and API integration.
+
+- Includes user authentication and API handling using React hooks.
+- **Technologies**: React, JavaScript, CSS, Webpack
+- [Explore the Project](https://github.com/sohaibtahir00/se_project_react)
+
+### 3. [☕ Coffee Shop Website](https://github.com/sohaibtahir00/se_project_coffeeshop)
+
+A stylish, responsive website for a **Coffee Shop** built using semantic HTML and CSS.
+
+- Implements Flexbox and BEM methodology for a clean, maintainable structure.
+- **Technologies**: HTML, CSS, Flexbox, BEM
+- [Explore the Project](https://github.com/sohaibtahir00/se_project_coffeeshop)
+
+### 4. [📸 Spots Image Sharing App](https://github.com/sohaibtahir00/se_project_spots)
+
+An interactive **image-sharing platform** where users can upload and like images.
+
+- Features include user authentication, profile management, and responsive design.
+- Backend is built with Node.js and Express, while the frontend is deployed via GitHub Pages.
+- **Technologies**: HTML, CSS, JavaScript, Node.js, GitHub Pages
+- [Explore the Project](https://github.com/sohaibtahir00/se_project_spots)
+
+### 5. [🚀 Express Backend API](https://github.com/sohaibtahir00/se_project_express)
+
+A robust backend project built using **Express.js**, showcasing API development and error handling.
+
+- Implements secure user authentication with JWT and MongoDB for data storage.
+- Includes comprehensive error handling and validation.
+- **Technologies**: Node.js, Express.js, MongoDB, JWT
+- [Explore the Project](https://github.com/sohaibtahir00/se_project_express)
+
+---
+
+## 🌐 Live Projects
+
+- [SE To-Do App](https://sohaibtahir00.github.io/se-to-do/)
+- [Spots Image Sharing App](https://sohaibtahir00.github.io/se_project_spots/)
+- [Coffee Shop Website](https://sohaibtahir00.github.io/se_project_coffeeshop/)
+- [What to Wear Website](https://wt-wr.dob.jp/)
+
+---
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibtahir00&layout=compact)
+
+---
+
+## 🤝 Connect with Me
+
+- 💬 Feel free to ask me about **Web Development**, **React**, or **Node.js**.
+- 📫 Reach me via [Email](mailto:sohaibtahir90@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/stahir-dev).
+
+---
+
+⭐️ If you like my work, consider giving a star to the repositories and following me for more updates!
