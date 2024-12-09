@@ -58,6 +58,16 @@ A robust backend project built using **Express.js**, showcasing API development 
 - **Technologies**: Node.js, Express.js, MongoDB, JWT
 - [Explore the Project](https://github.com/sohaibtahir00/se_project_express)
 
+### 6. [JobMate Frontend](https://github.com/sohaibtahir00/project-jobmate-frontend)
+
+A frontend application built with React and Vite. This project serves as the user interface for the JobMate platform, providing users with an intuitive and responsive experience for managing job-related tasks.
+
+- **React with Vite:** Utilizes React for building user interfaces and Vite for fast development and optimized production builds.
+- **Responsive Design:** Ensures compatibility across various devices and screen sizes.
+- **Modern JavaScript:** Leverages ES6+ features for cleaner and more efficient code.
+
+You can explore the project repository [here](https://github.com/sohaibtahir00/project-jobmate-frontend).
+
 ---
 
 ## 🌐 Live Projects
@@ -66,6 +76,7 @@ A robust backend project built using **Express.js**, showcasing API development 
 - [Spots Image Sharing App](https://sohaibtahir00.github.io/se_project_spots/)
 - [Coffee Shop Website](https://sohaibtahir00.github.io/se_project_coffeeshop/)
 - [What to Wear Website](https://wt-wr.dob.jp/)
+- [JobMate Frontend](https://sohaibtahir00.github.io/project-jobmate-frontend/)
 
 ---
 
