@@ -65,8 +65,7 @@ A frontend application built with React and Vite. This project serves as the use
 - **React with Vite:** Utilizes React for building user interfaces and Vite for fast development and optimized production builds.
 - **Responsive Design:** Ensures compatibility across various devices and screen sizes.
 - **Modern JavaScript:** Leverages ES6+ features for cleaner and more efficient code.
-
-You can explore the project repository [here](https://github.com/sohaibtahir00/project-jobmate-frontend).
+- [Explore the Project](https://github.com/sohaibtahir00/project-jobmate-frontend).
 
 ---
 
